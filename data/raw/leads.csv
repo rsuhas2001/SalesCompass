@@ -1,0 +1,521 @@
+lead_id,created_at,source,segment,campaign,owner,company,status,first_contact_at,qualified_at,converted_at
+L00001,2026-10-19T07:00:00,Webinar,SMB,Fall Outreach,Noah Brooks,Acme Account 0001,New,,,
+L00002,2026-08-03T23:00:00,Inbound demo,SMB,Always-on,Priya Shah,Acme Account 0002,Qualified,2026-08-06T12:37:29,2026-08-08T11:37:29,
+L00003,2026-08-08T05:00:00,Inbound demo,Enterprise,Fall Outreach,Noah Brooks,Acme Account 0003,Converted,2026-08-08T07:44:08,2026-08-10T10:44:08,2026-08-12T18:44:08
+L00004,2026-07-22T00:00:00,Partner referral,SMB,Industry Roundtable,Priya Shah,Acme Account 0004,Qualified,2026-07-22T21:15:31,2026-07-26T08:15:31,
+L00005,2026-05-04T04:00:00,Partner referral,SMB,Benchmark Report,Jonah Kim,Acme Account 0005,Converted,2026-05-04T04:21:00,2026-05-09T01:21:00,2026-05-17T16:21:00
+L00006,2026-03-31T08:00:00,Outbound,SMB,Benchmark Report,Sofia Rivera,Acme Account 0006,Disqualified,2026-03-31T08:55:59,2026-04-03T04:55:59,
+L00007,2026-03-30T15:00:00,Outbound,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0007,Disqualified,2026-03-30T18:41:06,2026-04-01T20:41:06,
+L00008,2026-10-10T05:00:00,Inbound demo,SMB,Benchmark Report,Ethan Wright,Acme Account 0008,Contacted,2026-10-10T07:27:03,,
+L00009,2026-06-03T22:00:00,Organic search,SMB,Industry Roundtable,Noah Brooks,Acme Account 0009,Disqualified,2026-06-04T00:33:22,2026-06-04T13:33:22,
+L00010,2026-08-31T16:00:00,Inbound demo,Enterprise,Q1 Launch,Priya Shah,Acme Account 0010,Qualified,2026-08-31T16:53:55,2026-09-05T01:53:55,
+L00011,2026-05-28T06:00:00,Paid search,Mid-market,Q1 Launch,Amira Chen,Acme Account 0011,Converted,2026-05-28T08:13:42,2026-05-30T13:13:42,2026-06-01T11:13:42
+L00012,2026-05-25T11:00:00,Inbound demo,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0012,Qualified,2026-05-25T11:40:16,2026-05-29T12:40:16,
+L00013,2026-09-19T08:00:00,Organic search,SMB,Q1 Launch,Noah Brooks,Acme Account 0013,Converted,2026-09-20T06:00:00,2026-09-20T15:00:00,2026-09-28T12:00:00
+L00014,2026-07-20T08:00:00,Webinar,Mid-market,Q1 Launch,Leah Patel,Acme Account 0014,Qualified,2026-07-20T09:38:49,2026-07-24T08:38:49,
+L00015,2026-05-04T08:00:00,Organic search,Mid-market,Industry Roundtable,Mateo Garcia,Acme Account 0015,Converted,2026-05-04T10:24:41,2026-05-09T13:24:41,2026-05-18T15:24:41
+L00016,2026-06-07T09:00:00,Organic search,Enterprise,Q1 Launch,Noah Brooks,Acme Account 0016,Qualified,2026-06-07T11:10:28,2026-06-10T02:10:28,
+L00017,2026-08-20T02:00:00,Webinar,Enterprise,Q1 Launch,Ethan Wright,Acme Account 0017,Qualified,2026-08-20T22:17:02,2026-08-24T12:17:02,
+L00018,2026-10-05T03:00:00,Paid search,SMB,Product Webinar,Mateo Garcia,Acme Account 0018,Converted,2026-10-05T07:44:16,2026-10-08T17:44:16,2026-10-10T10:44:16
+L00019,2026-10-03T02:00:00,Inbound demo,Mid-market,Fall Outreach,Priya Shah,Acme Account 0019,Qualified,2026-10-03T09:43:34,2026-10-05T01:43:34,
+L00020,2026-08-11T03:00:00,Inbound demo,Enterprise,Product Webinar,Priya Shah,Acme Account 0020,Disqualified,2026-08-11T13:18:50,2026-08-15T11:18:50,
+L00021,2026-06-16T16:00:00,Outbound,SMB,Benchmark Report,Ethan Wright,Acme Account 0021,Qualified,2026-06-17T13:05:32,2026-06-21T15:05:32,
+L00022,2026-06-27T01:00:00,Outbound,Enterprise,Fall Outreach,Jonah Kim,Acme Account 0022,New,,,
+L00023,2026-10-12T23:00:00,Inbound demo,SMB,Product Webinar,Leah Patel,Acme Account 0023,Disqualified,2026-10-13T14:44:51,2026-10-18T09:44:51,
+L00024,2026-06-27T08:00:00,Paid search,SMB,Industry Roundtable,Ethan Wright,Acme Account 0024,Qualified,2026-06-27T08:41:53,2026-06-30T21:41:53,
+L00025,2026-05-31T18:00:00,Inbound demo,Mid-market,Q1 Launch,Amira Chen,Acme Account 0025,Converted,2026-06-03T03:37:11,2026-06-07T11:37:11,2026-06-14T06:37:11
+L00026,2026-04-04T17:00:00,Webinar,Mid-market,Fall Outreach,Leah Patel,Acme Account 0026,Contacted,2026-04-04T18:20:46,,
+L00027,2026-05-28T15:00:00,Outbound,Mid-market,Q1 Launch,Mateo Garcia,Acme Account 0027,Disqualified,2026-05-28T15:35:38,2026-05-29T15:35:38,
+L00028,2026-10-04T00:00:00,Organic search,SMB,Fall Outreach,Sofia Rivera,Acme Account 0028,Disqualified,2026-10-04T03:42:17,2026-10-07T02:42:17,
+L00029,2026-08-05T12:00:00,Paid search,Enterprise,Always-on,Mateo Garcia,Acme Account 0029,New,,,
+L00030,2026-04-19T03:00:00,Inbound demo,Enterprise,Always-on,Mateo Garcia,Acme Account 0030,Contacted,2026-04-19T03:25:50,,
+L00031,2026-08-04T15:00:00,Inbound demo,SMB,Always-on,Amira Chen,Acme Account 0031,Contacted,2026-08-04T18:59:02,,
+L00032,2026-08-22T15:00:00,Inbound demo,SMB,Benchmark Report,Ethan Wright,Acme Account 0032,New,,,
+L00033,2026-04-14T06:00:00,Inbound demo,SMB,Industry Roundtable,Amira Chen,Acme Account 0033,Contacted,2026-04-14T09:18:45,,
+L00034,2026-10-28T18:00:00,Inbound demo,Mid-market,Benchmark Report,Jonah Kim,Acme Account 0034,Contacted,2026-10-28T20:39:47,,
+L00035,2026-07-06T13:00:00,Paid search,Mid-market,Product Webinar,Leah Patel,Acme Account 0035,Qualified,2026-07-06T14:47:21,2026-07-07T11:47:21,
+L00036,2026-05-22T14:00:00,Webinar,Enterprise,Benchmark Report,Priya Shah,Acme Account 0036,Contacted,2026-05-22T14:55:36,,
+L00037,2026-07-29T12:00:00,Paid search,SMB,Q1 Launch,Leah Patel,Acme Account 0037,Disqualified,2026-07-31T01:23:14,2026-08-03T15:23:14,
+L00038,2026-02-24T14:00:00,Outbound,SMB,Always-on,Noah Brooks,Acme Account 0038,New,,,
+L00039,2026-06-22T18:00:00,Paid search,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0039,Contacted,2026-06-24T16:42:05,,
+L00040,2026-10-08T12:00:00,Organic search,SMB,Always-on,Sofia Rivera,Acme Account 0040,Contacted,2026-10-08T12:33:40,,
+L00041,2026-10-11T10:00:00,Outbound,SMB,Industry Roundtable,Ethan Wright,Acme Account 0041,Converted,2026-10-11T18:16:18,2026-10-15T08:16:18,2026-10-17T14:16:18
+L00042,2026-02-26T16:00:00,Paid search,SMB,Fall Outreach,Priya Shah,Acme Account 0042,Qualified,2026-02-27T16:25:46,2026-03-02T00:25:46,
+L00043,2026-08-07T10:00:00,Organic search,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0043,Qualified,2026-08-10T01:01:10,2026-08-14T22:01:10,
+L00044,2026-08-02T03:00:00,Inbound demo,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0044,New,,,
+L00045,2026-10-01T03:00:00,Inbound demo,Enterprise,Q1 Launch,Priya Shah,Acme Account 0045,Qualified,2026-10-01T04:53:49,2026-10-02T21:53:49,
+L00046,2026-05-13T04:00:00,Organic search,SMB,Fall Outreach,Mateo Garcia,Acme Account 0046,Disqualified,2026-05-13T06:25:40,2026-05-15T14:25:40,
+L00047,2026-05-06T01:00:00,Paid search,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0047,New,,,
+L00048,2026-09-21T18:00:00,Inbound demo,Enterprise,Always-on,Priya Shah,Acme Account 0048,New,,,
+L00049,2026-09-01T18:00:00,Inbound demo,Mid-market,Industry Roundtable,Amira Chen,Acme Account 0049,Contacted,2026-09-02T00:50:41,,
+L00050,2026-06-28T13:00:00,Outbound,SMB,Always-on,Mateo Garcia,Acme Account 0050,Qualified,2026-06-29T05:59:09,2026-06-30T16:59:09,
+L00051,2026-05-02T22:00:00,Organic search,Mid-market,Q1 Launch,Leah Patel,Acme Account 0051,Qualified,2026-05-03T21:15:40,2026-05-05T22:15:40,
+L00052,2026-05-26T11:00:00,Organic search,SMB,Benchmark Report,Priya Shah,Acme Account 0052,Qualified,2026-05-26T17:39:09,2026-05-27T06:39:09,
+L00053,2026-10-14T18:00:00,Paid search,SMB,Product Webinar,Ethan Wright,Acme Account 0053,Contacted,2026-10-15T14:20:32,,
+L00054,2026-04-02T01:00:00,Webinar,Mid-market,Fall Outreach,Mateo Garcia,Acme Account 0054,Converted,2026-04-02T19:37:11,2026-04-03T21:37:11,2026-04-06T09:37:11
+L00055,2026-08-07T23:00:00,Outbound,SMB,Always-on,Ethan Wright,Acme Account 0055,Qualified,2026-08-10T17:48:48,2026-08-14T06:48:48,
+L00056,2026-07-28T02:00:00,Outbound,Mid-market,Benchmark Report,Amira Chen,Acme Account 0056,Contacted,2026-07-28T03:32:30,,
+L00057,2026-07-22T22:00:00,Inbound demo,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0057,Contacted,2026-07-23T01:11:12,,
+L00058,2026-09-27T08:00:00,Inbound demo,Enterprise,Benchmark Report,Ethan Wright,Acme Account 0058,Contacted,2026-09-27T08:22:13,,
+L00059,2026-08-23T07:00:00,Outbound,SMB,Benchmark Report,Noah Brooks,Acme Account 0059,Contacted,2026-08-23T13:54:31,,
+L00060,2026-05-18T09:00:00,Outbound,SMB,Fall Outreach,Priya Shah,Acme Account 0060,Qualified,2026-05-18T18:20:43,2026-05-22T07:20:43,
+L00061,2026-09-05T05:00:00,Outbound,SMB,Q1 Launch,Ethan Wright,Acme Account 0061,Disqualified,2026-09-06T21:59:54,2026-09-10T00:59:54,
+L00062,2026-07-18T12:00:00,Inbound demo,Enterprise,Always-on,Noah Brooks,Acme Account 0062,Qualified,2026-07-19T22:50:08,2026-07-22T13:50:08,
+L00063,2026-10-08T18:00:00,Paid search,Mid-market,Fall Outreach,Noah Brooks,Acme Account 0063,Converted,2026-10-09T18:27:32,2026-10-11T07:27:32,2026-10-14T23:27:32
+L00064,2026-05-25T08:00:00,Webinar,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0064,Contacted,2026-05-26T02:48:33,,
+L00065,2026-04-09T01:00:00,Outbound,SMB,Fall Outreach,Priya Shah,Acme Account 0065,Converted,2026-04-09T03:04:41,2026-04-11T19:04:41,2026-04-14T08:04:41
+L00066,2026-04-08T04:00:00,Organic search,Mid-market,Benchmark Report,Leah Patel,Acme Account 0066,Converted,2026-04-11T11:01:15,2026-04-16T08:01:15,2026-04-17T19:01:15
+L00067,2026-04-08T09:00:00,Inbound demo,Mid-market,Fall Outreach,Noah Brooks,Acme Account 0067,Converted,2026-04-08T09:56:23,2026-04-09T18:56:23,2026-04-16T03:56:23
+L00068,2026-05-23T00:00:00,Outbound,SMB,Industry Roundtable,Ethan Wright,Acme Account 0068,Converted,2026-05-23T19:57:22,2026-05-24T19:57:22,2026-05-30T01:57:22
+L00069,2026-06-29T12:00:00,Webinar,Mid-market,Fall Outreach,Jonah Kim,Acme Account 0069,Qualified,2026-06-29T13:39:07,2026-07-04T01:39:07,
+L00070,2026-06-10T18:00:00,Inbound demo,Mid-market,Benchmark Report,Mateo Garcia,Acme Account 0070,Converted,2026-06-11T07:31:42,2026-06-12T20:31:42,2026-06-17T22:31:42
+L00071,2026-03-09T06:00:00,Outbound,Mid-market,Q1 Launch,Noah Brooks,Acme Account 0071,Converted,2026-03-09T08:47:15,2026-03-13T16:47:15,2026-03-18T04:47:15
+L00072,2026-10-06T23:00:00,Inbound demo,Mid-market,Q1 Launch,Mateo Garcia,Acme Account 0072,Contacted,2026-10-09T22:09:33,,
+L00073,2026-08-07T03:00:00,Paid search,Mid-market,Product Webinar,Amira Chen,Acme Account 0073,Qualified,2026-08-07T03:22:43,2026-08-11T13:22:43,
+L00074,2026-07-01T06:00:00,Paid search,Enterprise,Product Webinar,Jonah Kim,Acme Account 0074,Converted,2026-07-02T06:02:18,2026-07-04T23:02:18,2026-07-08T01:02:18
+L00075,2026-06-25T02:00:00,Outbound,SMB,Industry Roundtable,Jonah Kim,Acme Account 0075,Contacted,2026-06-25T02:48:35,,
+L00076,2026-09-10T11:00:00,Outbound,Mid-market,Product Webinar,Jonah Kim,Acme Account 0076,Contacted,2026-09-10T14:44:21,,
+L00077,2026-02-26T00:00:00,Organic search,SMB,Product Webinar,Noah Brooks,Acme Account 0077,Converted,2026-03-02T00:06:07,2026-03-04T18:06:07,2026-03-07T11:06:07
+L00078,2026-07-13T09:00:00,Partner referral,Mid-market,Industry Roundtable,Amira Chen,Acme Account 0078,Converted,2026-07-16T15:38:15,2026-07-18T09:38:15,2026-07-23T17:38:15
+L00079,2026-05-20T10:00:00,Organic search,SMB,Always-on,Sofia Rivera,Acme Account 0079,Contacted,2026-05-20T20:08:05,,
+L00080,2026-10-22T15:00:00,Inbound demo,SMB,Product Webinar,Mateo Garcia,Acme Account 0080,Qualified,2026-10-22T23:38:13,2026-10-27T22:38:13,
+L00081,2026-04-03T23:00:00,Paid search,Mid-market,Fall Outreach,Noah Brooks,Acme Account 0081,Contacted,2026-04-08T02:27:23,,
+L00082,2026-06-05T04:00:00,Paid search,SMB,Fall Outreach,Amira Chen,Acme Account 0082,Qualified,2026-06-05T10:54:04,2026-06-08T14:54:04,
+L00083,2026-09-04T03:00:00,Inbound demo,SMB,Always-on,Leah Patel,Acme Account 0083,Converted,2026-09-04T04:59:05,2026-09-07T04:59:05,2026-09-13T09:59:05
+L00084,2026-09-21T08:00:00,Outbound,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0084,Contacted,2026-09-22T09:43:10,,
+L00085,2026-05-02T14:00:00,Inbound demo,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0085,Qualified,2026-05-05T02:17:29,2026-05-06T11:17:29,
+L00086,2026-02-17T23:00:00,Webinar,SMB,Fall Outreach,Sofia Rivera,Acme Account 0086,Contacted,2026-02-18T02:17:50,,
+L00087,2026-04-29T23:00:00,Paid search,SMB,Benchmark Report,Ethan Wright,Acme Account 0087,New,,,
+L00088,2026-09-29T22:00:00,Outbound,SMB,Benchmark Report,Mateo Garcia,Acme Account 0088,Disqualified,2026-09-30T02:30:46,2026-10-03T08:30:46,
+L00089,2026-08-03T04:00:00,Partner referral,SMB,Product Webinar,Sofia Rivera,Acme Account 0089,Qualified,2026-08-03T04:34:03,2026-08-06T21:34:03,
+L00090,2026-05-19T04:00:00,Inbound demo,Enterprise,Benchmark Report,Leah Patel,Acme Account 0090,Contacted,2026-05-22T00:28:43,,
+L00091,2026-05-11T10:00:00,Partner referral,SMB,Product Webinar,Priya Shah,Acme Account 0091,Converted,2026-05-11T13:30:54,2026-05-12T11:30:54,2026-05-14T18:30:54
+L00092,2026-03-09T08:00:00,Inbound demo,SMB,Industry Roundtable,Amira Chen,Acme Account 0092,Disqualified,2026-03-09T09:27:05,2026-03-14T07:27:05,
+L00093,2026-03-01T03:00:00,Partner referral,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0093,Disqualified,2026-03-01T17:51:35,2026-03-04T06:51:35,
+L00094,2026-04-30T06:00:00,Webinar,Mid-market,Industry Roundtable,Jonah Kim,Acme Account 0094,New,,,
+L00095,2026-02-27T22:00:00,Outbound,Enterprise,Industry Roundtable,Jonah Kim,Acme Account 0095,Disqualified,2026-02-28T00:31:24,2026-03-03T21:31:24,
+L00096,2026-06-09T07:00:00,Organic search,Enterprise,Q1 Launch,Amira Chen,Acme Account 0096,New,,,
+L00097,2026-04-09T17:00:00,Outbound,Mid-market,Q1 Launch,Mateo Garcia,Acme Account 0097,Disqualified,2026-04-10T04:02:59,2026-04-15T08:02:59,
+L00098,2026-05-03T04:00:00,Outbound,SMB,Q1 Launch,Jonah Kim,Acme Account 0098,New,,,
+L00099,2026-08-21T01:00:00,Outbound,Mid-market,Benchmark Report,Priya Shah,Acme Account 0099,Converted,2026-08-21T13:37:59,2026-08-22T09:37:59,2026-08-29T12:37:59
+L00100,2026-07-08T03:00:00,Inbound demo,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0100,Disqualified,2026-07-08T16:34:19,2026-07-11T04:34:19,
+L00101,2026-09-20T17:00:00,Outbound,SMB,Industry Roundtable,Noah Brooks,Acme Account 0101,Qualified,2026-09-21T15:03:16,2026-09-26T16:03:16,
+L00102,2026-09-02T13:00:00,Organic search,Enterprise,Benchmark Report,Sofia Rivera,Acme Account 0102,Qualified,2026-09-03T07:19:28,2026-09-03T16:19:28,
+L00103,2026-03-31T15:00:00,Webinar,Mid-market,Product Webinar,Leah Patel,Acme Account 0103,Converted,2026-03-31T18:39:03,2026-04-04T08:39:03,2026-04-07T11:39:03
+L00104,2026-02-19T01:00:00,Inbound demo,Mid-market,Industry Roundtable,Amira Chen,Acme Account 0104,Converted,2026-02-21T08:34:46,2026-02-23T22:34:46,2026-03-02T17:34:46
+L00105,2026-02-24T23:00:00,Webinar,SMB,Always-on,Priya Shah,Acme Account 0105,Converted,2026-02-25T01:49:56,2026-02-28T01:49:56,2026-03-05T18:49:56
+L00106,2026-09-07T23:00:00,Partner referral,SMB,Industry Roundtable,Mateo Garcia,Acme Account 0106,Disqualified,2026-09-08T00:14:15,2026-09-12T19:14:15,
+L00107,2026-05-10T22:00:00,Organic search,SMB,Fall Outreach,Jonah Kim,Acme Account 0107,Disqualified,2026-05-11T01:37:30,2026-05-12T10:37:30,
+L00108,2026-03-03T07:00:00,Webinar,SMB,Product Webinar,Noah Brooks,Acme Account 0108,Qualified,2026-03-04T07:43:37,2026-03-05T05:43:37,
+L00109,2026-09-02T07:00:00,Inbound demo,Enterprise,Benchmark Report,Sofia Rivera,Acme Account 0109,Qualified,2026-09-02T07:53:11,2026-09-06T19:53:11,
+L00110,2026-05-21T06:00:00,Paid search,Mid-market,Product Webinar,Leah Patel,Acme Account 0110,Qualified,2026-05-21T17:03:27,2026-05-27T02:03:27,
+L00111,2026-08-03T10:00:00,Partner referral,Mid-market,Fall Outreach,Amira Chen,Acme Account 0111,Contacted,2026-08-03T13:48:20,,
+L00112,2026-04-07T14:00:00,Outbound,SMB,Industry Roundtable,Priya Shah,Acme Account 0112,Converted,2026-04-07T14:25:12,2026-04-12T01:25:12,2026-04-13T17:25:12
+L00113,2026-07-26T13:00:00,Organic search,Enterprise,Fall Outreach,Noah Brooks,Acme Account 0113,Qualified,2026-07-26T16:11:20,2026-07-29T05:11:20,
+L00114,2026-05-14T13:00:00,Inbound demo,SMB,Product Webinar,Leah Patel,Acme Account 0114,Contacted,2026-05-18T02:24:25,,
+L00115,2026-10-11T08:00:00,Webinar,Enterprise,Benchmark Report,Leah Patel,Acme Account 0115,New,,,
+L00116,2026-08-12T18:00:00,Partner referral,Mid-market,Industry Roundtable,Amira Chen,Acme Account 0116,New,,,
+L00117,2026-02-20T03:00:00,Outbound,Enterprise,Q1 Launch,Noah Brooks,Acme Account 0117,Disqualified,2026-02-20T13:13:05,2026-02-23T21:13:05,
+L00118,2026-05-11T04:00:00,Organic search,Mid-market,Product Webinar,Priya Shah,Acme Account 0118,Contacted,2026-05-11T06:27:34,,
+L00119,2026-10-11T18:00:00,Partner referral,Mid-market,Fall Outreach,Sofia Rivera,Acme Account 0119,Qualified,2026-10-11T19:30:42,2026-10-12T08:30:42,
+L00120,2026-03-30T00:00:00,Organic search,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0120,Qualified,2026-04-01T13:19:48,2026-04-02T16:19:48,
+L00121,2026-07-27T08:00:00,Outbound,SMB,Fall Outreach,Mateo Garcia,Acme Account 0121,Qualified,2026-07-27T11:35:25,2026-07-31T05:35:25,
+L00122,2026-03-22T01:00:00,Inbound demo,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0122,New,,,
+L00123,2026-08-18T08:00:00,Inbound demo,SMB,Fall Outreach,Noah Brooks,Acme Account 0123,Qualified,2026-08-18T09:40:21,2026-08-22T00:40:21,
+L00124,2026-04-29T17:00:00,Organic search,SMB,Fall Outreach,Amira Chen,Acme Account 0124,Qualified,2026-04-29T17:20:36,2026-05-02T04:20:36,
+L00125,2026-10-13T17:00:00,Inbound demo,Mid-market,Industry Roundtable,Sofia Rivera,Acme Account 0125,Converted,2026-10-13T18:52:24,2026-10-15T15:52:24,2026-10-21T17:52:24
+L00126,2026-07-15T06:00:00,Partner referral,Mid-market,Fall Outreach,Noah Brooks,Acme Account 0126,Converted,2026-07-15T07:56:14,2026-07-17T11:56:14,2026-07-25T05:56:14
+L00127,2026-10-29T16:00:00,Inbound demo,SMB,Industry Roundtable,Amira Chen,Acme Account 0127,Contacted,2026-10-29T18:33:05,,
+L00128,2026-05-04T01:00:00,Partner referral,Mid-market,Product Webinar,Priya Shah,Acme Account 0128,Converted,2026-05-05T03:22:44,2026-05-07T14:22:44,2026-05-11T20:22:44
+L00129,2026-04-17T10:00:00,Inbound demo,SMB,Benchmark Report,Amira Chen,Acme Account 0129,Contacted,2026-04-18T07:56:55,,
+L00130,2026-04-28T22:00:00,Paid search,Enterprise,Benchmark Report,Jonah Kim,Acme Account 0130,Disqualified,2026-04-29T12:52:30,2026-04-29T22:52:30,
+L00131,2026-07-06T03:00:00,Outbound,SMB,Product Webinar,Mateo Garcia,Acme Account 0131,New,,,
+L00132,2026-04-26T16:00:00,Outbound,SMB,Always-on,Jonah Kim,Acme Account 0132,Qualified,2026-04-26T18:32:18,2026-04-30T08:32:18,
+L00133,2026-09-01T08:00:00,Webinar,Enterprise,Benchmark Report,Sofia Rivera,Acme Account 0133,Qualified,2026-09-01T10:53:35,2026-09-02T22:53:35,
+L00134,2026-09-22T00:00:00,Outbound,SMB,Q1 Launch,Noah Brooks,Acme Account 0134,New,,,
+L00135,2026-07-05T22:00:00,Webinar,SMB,Q1 Launch,Leah Patel,Acme Account 0135,Contacted,2026-07-06T03:21:53,,
+L00136,2026-10-28T13:00:00,Organic search,Enterprise,Benchmark Report,Amira Chen,Acme Account 0136,Contacted,2026-10-28T16:13:14,,
+L00137,2026-09-20T15:00:00,Inbound demo,SMB,Benchmark Report,Priya Shah,Acme Account 0137,Contacted,2026-09-21T00:48:10,,
+L00138,2026-07-11T13:00:00,Paid search,SMB,Fall Outreach,Leah Patel,Acme Account 0138,New,,,
+L00139,2026-05-25T02:00:00,Inbound demo,Enterprise,Industry Roundtable,Priya Shah,Acme Account 0139,Qualified,2026-05-25T13:26:41,2026-05-29T16:26:41,
+L00140,2026-06-29T23:00:00,Paid search,Mid-market,Q1 Launch,Amira Chen,Acme Account 0140,Qualified,2026-07-01T00:01:11,2026-07-02T01:01:11,
+L00141,2026-04-02T18:00:00,Inbound demo,Enterprise,Benchmark Report,Jonah Kim,Acme Account 0141,Converted,2026-04-03T09:23:25,2026-04-04T14:23:25,2026-04-08T18:23:25
+L00142,2026-03-12T15:00:00,Partner referral,SMB,Always-on,Leah Patel,Acme Account 0142,Converted,2026-03-12T18:36:02,2026-03-17T11:36:02,2026-03-24T07:36:02
+L00143,2026-04-01T10:00:00,Outbound,SMB,Benchmark Report,Amira Chen,Acme Account 0143,Contacted,2026-04-02T10:16:01,,
+L00144,2026-10-12T12:00:00,Inbound demo,SMB,Benchmark Report,Priya Shah,Acme Account 0144,Qualified,2026-10-12T17:45:18,2026-10-14T17:45:18,
+L00145,2026-05-08T10:00:00,Inbound demo,SMB,Benchmark Report,Mateo Garcia,Acme Account 0145,Converted,2026-05-08T19:50:12,2026-05-09T04:50:12,2026-05-16T04:50:12
+L00146,2026-04-06T05:00:00,Organic search,SMB,Industry Roundtable,Jonah Kim,Acme Account 0146,Converted,2026-04-06T18:40:22,2026-04-11T10:40:22,2026-04-18T08:40:22
+L00147,2026-09-01T22:00:00,Partner referral,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0147,Contacted,2026-09-02T01:35:59,,
+L00148,2026-08-27T14:00:00,Inbound demo,SMB,Fall Outreach,Priya Shah,Acme Account 0148,Converted,2026-08-30T07:03:26,2026-09-02T13:03:26,2026-09-07T20:03:26
+L00149,2026-05-18T03:00:00,Organic search,SMB,Q1 Launch,Jonah Kim,Acme Account 0149,Converted,2026-05-18T04:46:13,2026-05-22T13:46:13,2026-05-28T12:46:13
+L00150,2026-10-03T13:00:00,Outbound,SMB,Product Webinar,Mateo Garcia,Acme Account 0150,Contacted,2026-10-03T15:13:29,,
+L00151,2026-04-18T00:00:00,Paid search,SMB,Benchmark Report,Sofia Rivera,Acme Account 0151,Disqualified,2026-04-18T05:08:22,2026-04-23T00:08:22,
+L00152,2026-10-04T10:00:00,Organic search,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0152,Converted,2026-10-04T13:56:47,2026-10-08T08:56:47,2026-10-14T06:56:47
+L00153,2026-07-09T11:00:00,Paid search,SMB,Q1 Launch,Sofia Rivera,Acme Account 0153,Qualified,2026-07-09T14:52:02,2026-07-12T22:52:02,
+L00154,2026-04-09T03:00:00,Outbound,Enterprise,Fall Outreach,Amira Chen,Acme Account 0154,Contacted,2026-04-10T04:51:51,,
+L00155,2026-08-27T22:00:00,Paid search,Enterprise,Fall Outreach,Jonah Kim,Acme Account 0155,Converted,2026-08-28T10:42:30,2026-08-31T14:42:30,2026-09-02T17:42:30
+L00156,2026-07-21T04:00:00,Outbound,SMB,Benchmark Report,Priya Shah,Acme Account 0156,Contacted,2026-07-22T12:55:10,,
+L00157,2026-05-25T03:00:00,Webinar,Mid-market,Q1 Launch,Mateo Garcia,Acme Account 0157,Converted,2026-05-29T00:48:15,2026-05-31T10:48:15,2026-06-08T21:48:15
+L00158,2026-07-06T22:00:00,Organic search,Mid-market,Product Webinar,Jonah Kim,Acme Account 0158,Converted,2026-07-07T17:40:10,2026-07-09T18:40:10,2026-07-17T08:40:10
+L00159,2026-08-14T23:00:00,Outbound,Mid-market,Q1 Launch,Mateo Garcia,Acme Account 0159,Qualified,2026-08-16T00:02:17,2026-08-18T07:02:17,
+L00160,2026-05-12T23:00:00,Outbound,Mid-market,Benchmark Report,Leah Patel,Acme Account 0160,New,,,
+L00161,2026-10-13T02:00:00,Paid search,SMB,Benchmark Report,Sofia Rivera,Acme Account 0161,Contacted,2026-10-16T11:19:05,,
+L00162,2026-04-13T12:00:00,Paid search,Enterprise,Industry Roundtable,Leah Patel,Acme Account 0162,Converted,2026-04-13T15:41:10,2026-04-14T09:41:10,2026-04-19T15:41:10
+L00163,2026-02-19T02:00:00,Inbound demo,SMB,Always-on,Jonah Kim,Acme Account 0163,New,,,
+L00164,2026-05-28T08:00:00,Paid search,SMB,Product Webinar,Ethan Wright,Acme Account 0164,New,,,
+L00165,2026-09-12T00:00:00,Outbound,Mid-market,Always-on,Priya Shah,Acme Account 0165,New,,,
+L00166,2026-02-22T14:00:00,Outbound,Mid-market,Fall Outreach,Sofia Rivera,Acme Account 0166,Qualified,2026-02-22T14:36:00,2026-02-26T02:36:00,
+L00167,2026-03-24T22:00:00,Inbound demo,Enterprise,Product Webinar,Ethan Wright,Acme Account 0167,New,,,
+L00168,2026-09-01T11:00:00,Outbound,Enterprise,Q1 Launch,Noah Brooks,Acme Account 0168,Qualified,2026-09-01T14:33:13,2026-09-04T02:33:13,
+L00169,2026-10-25T05:00:00,Organic search,SMB,Industry Roundtable,Sofia Rivera,Acme Account 0169,Qualified,2026-10-25T07:53:37,2026-10-26T01:53:37,
+L00170,2026-05-26T15:00:00,Inbound demo,Enterprise,Benchmark Report,Ethan Wright,Acme Account 0170,New,,,
+L00171,2026-06-17T07:00:00,Inbound demo,Enterprise,Fall Outreach,Noah Brooks,Acme Account 0171,Disqualified,2026-06-17T08:21:39,2026-06-22T04:21:39,
+L00172,2026-07-09T15:00:00,Inbound demo,SMB,Q1 Launch,Amira Chen,Acme Account 0172,Disqualified,2026-07-09T16:59:02,2026-07-14T04:59:02,
+L00173,2026-04-12T14:00:00,Outbound,Mid-market,Product Webinar,Leah Patel,Acme Account 0173,Disqualified,2026-04-12T16:36:56,2026-04-17T01:36:56,
+L00174,2026-07-16T07:00:00,Organic search,Mid-market,Fall Outreach,Priya Shah,Acme Account 0174,New,,,
+L00175,2026-10-11T09:00:00,Webinar,Mid-market,Product Webinar,Noah Brooks,Acme Account 0175,Qualified,2026-10-12T08:48:24,2026-10-12T19:48:24,
+L00176,2026-04-03T02:00:00,Partner referral,SMB,Always-on,Priya Shah,Acme Account 0176,New,,,
+L00177,2026-04-10T16:00:00,Paid search,SMB,Q1 Launch,Mateo Garcia,Acme Account 0177,Contacted,2026-04-10T16:42:35,,
+L00178,2026-09-04T04:00:00,Outbound,Mid-market,Q1 Launch,Mateo Garcia,Acme Account 0178,Contacted,2026-09-05T03:00:39,,
+L00179,2026-09-12T15:00:00,Inbound demo,SMB,Industry Roundtable,Ethan Wright,Acme Account 0179,Contacted,2026-09-13T14:53:45,,
+L00180,2026-02-25T23:00:00,Inbound demo,SMB,Fall Outreach,Jonah Kim,Acme Account 0180,Converted,2026-02-26T12:31:03,2026-03-02T01:31:03,2026-03-09T20:31:03
+L00181,2026-08-06T04:00:00,Inbound demo,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0181,Disqualified,2026-08-06T16:26:19,2026-08-07T18:26:19,
+L00182,2026-02-21T12:00:00,Outbound,SMB,Q1 Launch,Mateo Garcia,Acme Account 0182,Qualified,2026-02-22T12:31:10,2026-02-26T23:31:10,
+L00183,2026-05-02T07:00:00,Paid search,Mid-market,Fall Outreach,Amira Chen,Acme Account 0183,New,,,
+L00184,2026-02-19T23:00:00,Inbound demo,SMB,Industry Roundtable,Ethan Wright,Acme Account 0184,Converted,2026-02-21T05:44:07,2026-02-25T23:44:07,2026-03-06T04:44:07
+L00185,2026-04-04T07:00:00,Paid search,Mid-market,Fall Outreach,Ethan Wright,Acme Account 0185,Contacted,2026-04-04T08:37:29,,
+L00186,2026-08-22T13:00:00,Partner referral,Mid-market,Always-on,Amira Chen,Acme Account 0186,Converted,2026-08-22T14:31:29,2026-08-26T23:31:29,2026-08-31T14:31:29
+L00187,2026-07-13T18:00:00,Paid search,Mid-market,Benchmark Report,Noah Brooks,Acme Account 0187,Converted,2026-07-13T21:26:50,2026-07-18T17:26:50,2026-07-24T04:26:50
+L00188,2026-04-25T07:00:00,Inbound demo,SMB,Fall Outreach,Noah Brooks,Acme Account 0188,Converted,2026-04-28T15:55:39,2026-05-01T15:55:39,2026-05-06T01:55:39
+L00189,2026-05-09T15:00:00,Outbound,Mid-market,Q1 Launch,Jonah Kim,Acme Account 0189,Qualified,2026-05-10T13:11:07,2026-05-11T12:11:07,
+L00190,2026-09-09T09:00:00,Organic search,Mid-market,Benchmark Report,Priya Shah,Acme Account 0190,New,,,
+L00191,2026-04-29T00:00:00,Webinar,SMB,Always-on,Amira Chen,Acme Account 0191,Disqualified,2026-05-02T17:14:29,2026-05-06T02:14:29,
+L00192,2026-05-20T06:00:00,Paid search,Enterprise,Q1 Launch,Sofia Rivera,Acme Account 0192,Contacted,2026-05-20T15:45:29,,
+L00193,2026-08-22T15:00:00,Inbound demo,Mid-market,Fall Outreach,Ethan Wright,Acme Account 0193,Converted,2026-08-22T17:41:09,2026-08-25T06:41:09,2026-09-03T05:41:09
+L00194,2026-04-25T22:00:00,Outbound,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0194,New,,,
+L00195,2026-10-16T05:00:00,Paid search,SMB,Q1 Launch,Leah Patel,Acme Account 0195,Contacted,2026-10-16T05:21:48,,
+L00196,2026-03-30T02:00:00,Outbound,SMB,Fall Outreach,Jonah Kim,Acme Account 0196,New,,,
+L00197,2026-06-24T05:00:00,Inbound demo,Enterprise,Industry Roundtable,Ethan Wright,Acme Account 0197,Converted,2026-06-25T03:14:47,2026-06-27T09:14:47,2026-06-29T17:14:47
+L00198,2026-07-17T06:00:00,Outbound,Mid-market,Product Webinar,Leah Patel,Acme Account 0198,Contacted,2026-07-17T06:56:14,,
+L00199,2026-10-03T22:00:00,Organic search,Enterprise,Industry Roundtable,Leah Patel,Acme Account 0199,Disqualified,2026-10-03T23:14:32,2026-10-04T15:14:32,
+L00200,2026-07-15T13:00:00,Partner referral,SMB,Product Webinar,Ethan Wright,Acme Account 0200,Converted,2026-07-15T13:20:32,2026-07-18T15:20:32,2026-07-23T15:20:32
+L00201,2026-07-26T12:00:00,Outbound,Enterprise,Benchmark Report,Ethan Wright,Acme Account 0201,New,,,
+L00202,2026-05-12T14:00:00,Organic search,SMB,Always-on,Priya Shah,Acme Account 0202,Qualified,2026-05-12T15:16:40,2026-05-16T12:16:40,
+L00203,2026-07-05T00:00:00,Outbound,SMB,Benchmark Report,Noah Brooks,Acme Account 0203,Converted,2026-07-05T14:40:12,2026-07-09T22:40:12,2026-07-18T01:40:12
+L00204,2026-08-26T02:00:00,Organic search,Mid-market,Always-on,Noah Brooks,Acme Account 0204,New,,,
+L00205,2026-10-05T01:00:00,Inbound demo,Enterprise,Industry Roundtable,Jonah Kim,Acme Account 0205,Converted,2026-10-06T23:59:28,2026-10-11T12:59:28,2026-10-19T19:59:28
+L00206,2026-03-16T23:00:00,Outbound,Mid-market,Industry Roundtable,Sofia Rivera,Acme Account 0206,Contacted,2026-03-17T00:30:05,,
+L00207,2026-03-29T06:00:00,Organic search,Mid-market,Industry Roundtable,Amira Chen,Acme Account 0207,New,,,
+L00208,2026-02-16T17:00:00,Outbound,Enterprise,Industry Roundtable,Noah Brooks,Acme Account 0208,Qualified,2026-02-16T20:55:52,2026-02-22T03:55:52,
+L00209,2026-04-05T06:00:00,Outbound,Mid-market,Always-on,Jonah Kim,Acme Account 0209,Converted,2026-04-05T08:21:58,2026-04-10T15:21:58,2026-04-11T18:21:58
+L00210,2026-05-06T22:00:00,Inbound demo,Mid-market,Always-on,Sofia Rivera,Acme Account 0210,Qualified,2026-05-10T01:00:26,2026-05-15T07:00:26,
+L00211,2026-04-26T02:00:00,Paid search,SMB,Industry Roundtable,Mateo Garcia,Acme Account 0211,Disqualified,2026-04-26T04:32:43,2026-04-28T13:32:43,
+L00212,2026-06-28T11:00:00,Outbound,SMB,Benchmark Report,Priya Shah,Acme Account 0212,Qualified,2026-06-28T16:08:52,2026-06-30T20:08:52,
+L00213,2026-06-22T14:00:00,Outbound,Mid-market,Benchmark Report,Jonah Kim,Acme Account 0213,Qualified,2026-06-22T16:25:20,2026-06-24T12:25:20,
+L00214,2026-03-08T17:00:00,Organic search,SMB,Always-on,Sofia Rivera,Acme Account 0214,Contacted,2026-03-08T18:26:57,,
+L00215,2026-09-23T18:00:00,Inbound demo,Mid-market,Product Webinar,Sofia Rivera,Acme Account 0215,Qualified,2026-09-23T18:47:20,2026-09-29T01:47:20,
+L00216,2026-07-19T04:00:00,Organic search,SMB,Fall Outreach,Leah Patel,Acme Account 0216,Qualified,2026-07-19T06:06:25,2026-07-23T11:06:25,
+L00217,2026-05-03T04:00:00,Partner referral,Mid-market,Benchmark Report,Priya Shah,Acme Account 0217,Qualified,2026-05-04T21:46:10,2026-05-07T22:46:10,
+L00218,2026-03-14T07:00:00,Inbound demo,SMB,Benchmark Report,Ethan Wright,Acme Account 0218,Contacted,2026-03-14T09:13:27,,
+L00219,2026-07-18T15:00:00,Outbound,SMB,Q1 Launch,Noah Brooks,Acme Account 0219,Disqualified,2026-07-18T16:38:53,2026-07-22T10:38:53,
+L00220,2026-10-03T22:00:00,Partner referral,SMB,Q1 Launch,Noah Brooks,Acme Account 0220,Converted,2026-10-07T19:59:28,2026-10-08T20:59:28,2026-10-10T19:59:28
+L00221,2026-10-23T01:00:00,Organic search,SMB,Industry Roundtable,Noah Brooks,Acme Account 0221,Contacted,2026-10-23T02:25:11,,
+L00222,2026-08-10T17:00:00,Outbound,Mid-market,Industry Roundtable,Priya Shah,Acme Account 0222,Contacted,2026-08-14T07:56:43,,
+L00223,2026-06-09T14:00:00,Partner referral,Mid-market,Fall Outreach,Noah Brooks,Acme Account 0223,Converted,2026-06-10T04:31:14,2026-06-12T03:31:14,2026-06-17T15:31:14
+L00224,2026-08-02T14:00:00,Inbound demo,SMB,Product Webinar,Leah Patel,Acme Account 0224,Contacted,2026-08-03T08:58:39,,
+L00225,2026-09-14T03:00:00,Webinar,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0225,Qualified,2026-09-14T05:12:46,2026-09-17T04:12:46,
+L00226,2026-05-28T10:00:00,Inbound demo,Enterprise,Fall Outreach,Priya Shah,Acme Account 0226,Disqualified,2026-05-28T10:38:09,2026-05-30T11:38:09,
+L00227,2026-06-14T11:00:00,Inbound demo,Enterprise,Always-on,Amira Chen,Acme Account 0227,New,,,
+L00228,2026-08-18T13:00:00,Organic search,SMB,Benchmark Report,Ethan Wright,Acme Account 0228,Converted,2026-08-18T15:54:17,2026-08-19T21:54:17,2026-08-25T11:54:17
+L00229,2026-10-23T10:00:00,Outbound,Mid-market,Product Webinar,Priya Shah,Acme Account 0229,New,,,
+L00230,2026-05-14T13:00:00,Webinar,Enterprise,Industry Roundtable,Jonah Kim,Acme Account 0230,Disqualified,2026-05-14T16:22:39,2026-05-19T17:22:39,
+L00231,2026-06-12T12:00:00,Partner referral,SMB,Fall Outreach,Mateo Garcia,Acme Account 0231,Disqualified,2026-06-13T22:51:24,2026-06-17T11:51:24,
+L00232,2026-05-13T00:00:00,Outbound,SMB,Product Webinar,Noah Brooks,Acme Account 0232,Disqualified,2026-05-15T04:28:45,2026-05-15T17:28:45,
+L00233,2026-08-16T23:00:00,Outbound,SMB,Fall Outreach,Ethan Wright,Acme Account 0233,Qualified,2026-08-17T01:09:09,2026-08-17T18:09:09,
+L00234,2026-04-09T15:00:00,Webinar,SMB,Fall Outreach,Ethan Wright,Acme Account 0234,Disqualified,2026-04-09T18:07:04,2026-04-11T04:07:04,
+L00235,2026-04-04T08:00:00,Paid search,SMB,Fall Outreach,Mateo Garcia,Acme Account 0235,Qualified,2026-04-06T20:54:04,2026-04-09T20:54:04,
+L00236,2026-05-02T22:00:00,Inbound demo,Enterprise,Benchmark Report,Ethan Wright,Acme Account 0236,Contacted,2026-05-06T16:31:11,,
+L00237,2026-06-13T13:00:00,Inbound demo,Mid-market,Benchmark Report,Noah Brooks,Acme Account 0237,Converted,2026-06-14T09:13:54,2026-06-15T21:13:54,2026-06-20T09:13:54
+L00238,2026-06-05T16:00:00,Outbound,SMB,Industry Roundtable,Leah Patel,Acme Account 0238,Qualified,2026-06-08T19:22:43,2026-06-10T05:22:43,
+L00239,2026-08-19T12:00:00,Outbound,SMB,Industry Roundtable,Ethan Wright,Acme Account 0239,Disqualified,2026-08-19T14:43:43,2026-08-23T06:43:43,
+L00240,2026-07-30T16:00:00,Inbound demo,Mid-market,Always-on,Leah Patel,Acme Account 0240,Contacted,2026-07-30T19:37:49,,
+L00241,2026-05-22T11:00:00,Partner referral,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0241,New,,,
+L00242,2026-10-05T22:00:00,Inbound demo,SMB,Q1 Launch,Priya Shah,Acme Account 0242,Disqualified,2026-10-06T22:07:08,2026-10-07T20:07:08,
+L00243,2026-09-26T04:00:00,Paid search,Enterprise,Product Webinar,Amira Chen,Acme Account 0243,Qualified,2026-09-27T08:58:54,2026-09-30T16:58:54,
+L00244,2026-10-05T18:00:00,Inbound demo,SMB,Benchmark Report,Jonah Kim,Acme Account 0244,New,,,
+L00245,2026-05-31T05:00:00,Organic search,Mid-market,Industry Roundtable,Priya Shah,Acme Account 0245,Converted,2026-06-03T18:48:05,2026-06-07T04:48:05,2026-06-10T20:48:05
+L00246,2026-08-20T11:00:00,Inbound demo,Enterprise,Benchmark Report,Noah Brooks,Acme Account 0246,Disqualified,2026-08-20T12:17:41,2026-08-23T01:17:41,
+L00247,2026-10-26T16:00:00,Outbound,Enterprise,Always-on,Mateo Garcia,Acme Account 0247,Disqualified,2026-10-26T19:16:57,2026-10-28T15:16:57,
+L00248,2026-04-14T17:00:00,Organic search,SMB,Q1 Launch,Priya Shah,Acme Account 0248,Contacted,2026-04-14T20:22:03,,
+L00249,2026-04-28T11:00:00,Inbound demo,Enterprise,Product Webinar,Jonah Kim,Acme Account 0249,Disqualified,2026-04-28T11:19:47,2026-04-30T01:19:47,
+L00250,2026-06-30T16:00:00,Outbound,SMB,Benchmark Report,Jonah Kim,Acme Account 0250,Contacted,2026-07-03T14:15:12,,
+L00251,2026-08-13T01:00:00,Inbound demo,SMB,Always-on,Amira Chen,Acme Account 0251,Converted,2026-08-13T20:10:46,2026-08-15T13:10:46,2026-08-22T05:10:46
+L00252,2026-09-12T04:00:00,Outbound,Mid-market,Always-on,Jonah Kim,Acme Account 0252,New,,,
+L00253,2026-06-02T07:00:00,Partner referral,SMB,Benchmark Report,Priya Shah,Acme Account 0253,New,,,
+L00254,2026-03-31T12:00:00,Webinar,Mid-market,Fall Outreach,Jonah Kim,Acme Account 0254,Contacted,2026-04-04T06:56:20,,
+L00255,2026-02-27T01:00:00,Outbound,Enterprise,Q1 Launch,Mateo Garcia,Acme Account 0255,Contacted,2026-02-27T03:23:34,,
+L00256,2026-07-07T14:00:00,Organic search,Mid-market,Product Webinar,Noah Brooks,Acme Account 0256,New,,,
+L00257,2026-03-25T04:00:00,Organic search,SMB,Benchmark Report,Amira Chen,Acme Account 0257,Contacted,2026-03-25T14:33:48,,
+L00258,2026-09-19T17:00:00,Partner referral,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0258,Qualified,2026-09-20T17:40:10,2026-09-22T07:40:10,
+L00259,2026-06-13T01:00:00,Inbound demo,SMB,Benchmark Report,Ethan Wright,Acme Account 0259,Converted,2026-06-14T19:20:01,2026-06-17T13:20:01,2026-06-25T21:20:01
+L00260,2026-02-21T07:00:00,Inbound demo,SMB,Industry Roundtable,Priya Shah,Acme Account 0260,New,,,
+L00261,2026-05-11T14:00:00,Partner referral,Enterprise,Q1 Launch,Sofia Rivera,Acme Account 0261,Contacted,2026-05-11T17:16:08,,
+L00262,2026-06-13T10:00:00,Webinar,SMB,Product Webinar,Amira Chen,Acme Account 0262,Disqualified,2026-06-13T18:12:33,2026-06-17T11:12:33,
+L00263,2026-02-17T16:00:00,Inbound demo,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0263,Converted,2026-02-17T23:35:07,2026-02-22T11:35:07,2026-02-28T20:35:07
+L00264,2026-04-01T12:00:00,Organic search,Mid-market,Always-on,Ethan Wright,Acme Account 0264,New,,,
+L00265,2026-07-15T18:00:00,Inbound demo,SMB,Industry Roundtable,Mateo Garcia,Acme Account 0265,Qualified,2026-07-15T18:34:48,2026-07-18T20:34:48,
+L00266,2026-05-07T07:00:00,Partner referral,SMB,Q1 Launch,Ethan Wright,Acme Account 0266,Qualified,2026-05-07T17:11:12,2026-05-12T10:11:12,
+L00267,2026-06-18T02:00:00,Outbound,Mid-market,Fall Outreach,Mateo Garcia,Acme Account 0267,Contacted,2026-06-18T03:45:23,,
+L00268,2026-05-26T10:00:00,Organic search,Mid-market,Industry Roundtable,Sofia Rivera,Acme Account 0268,Converted,2026-05-26T12:21:59,2026-05-27T23:21:59,2026-06-01T14:21:59
+L00269,2026-06-17T03:00:00,Paid search,SMB,Always-on,Ethan Wright,Acme Account 0269,Disqualified,2026-06-19T12:15:49,2026-06-24T18:15:49,
+L00270,2026-06-10T00:00:00,Inbound demo,SMB,Fall Outreach,Sofia Rivera,Acme Account 0270,Disqualified,2026-06-10T00:22:36,2026-06-10T15:22:36,
+L00271,2026-10-07T22:00:00,Paid search,SMB,Benchmark Report,Sofia Rivera,Acme Account 0271,Qualified,2026-10-10T01:18:22,2026-10-11T22:18:22,
+L00272,2026-06-27T04:00:00,Paid search,Enterprise,Industry Roundtable,Noah Brooks,Acme Account 0272,New,,,
+L00273,2026-05-21T16:00:00,Webinar,SMB,Benchmark Report,Jonah Kim,Acme Account 0273,Qualified,2026-05-25T04:05:22,2026-05-25T18:05:22,
+L00274,2026-08-22T00:00:00,Inbound demo,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0274,Converted,2026-08-24T14:12:24,2026-08-29T16:12:24,2026-09-02T02:12:24
+L00275,2026-06-19T23:00:00,Webinar,Enterprise,Always-on,Ethan Wright,Acme Account 0275,Qualified,2026-06-20T01:59:53,2026-06-25T06:59:53,
+L00276,2026-09-29T02:00:00,Outbound,SMB,Always-on,Ethan Wright,Acme Account 0276,Contacted,2026-09-30T06:08:22,,
+L00277,2026-03-09T10:00:00,Inbound demo,Mid-market,Fall Outreach,Leah Patel,Acme Account 0277,Converted,2026-03-12T14:21:55,2026-03-17T06:21:55,2026-03-23T08:21:55
+L00278,2026-04-23T11:00:00,Partner referral,SMB,Industry Roundtable,Jonah Kim,Acme Account 0278,Contacted,2026-04-24T05:18:11,,
+L00279,2026-02-23T23:00:00,Organic search,SMB,Fall Outreach,Ethan Wright,Acme Account 0279,Qualified,2026-02-24T01:55:57,2026-02-25T15:55:57,
+L00280,2026-10-21T14:00:00,Outbound,SMB,Q1 Launch,Mateo Garcia,Acme Account 0280,Qualified,2026-10-21T19:42:57,2026-10-23T22:42:57,
+L00281,2026-03-13T06:00:00,Outbound,Enterprise,Q1 Launch,Jonah Kim,Acme Account 0281,Disqualified,2026-03-17T01:56:11,2026-03-21T05:56:11,
+L00282,2026-07-05T18:00:00,Webinar,Mid-market,Fall Outreach,Priya Shah,Acme Account 0282,Disqualified,2026-07-05T20:04:55,2026-07-09T12:04:55,
+L00283,2026-05-10T14:00:00,Inbound demo,Mid-market,Benchmark Report,Amira Chen,Acme Account 0283,Disqualified,2026-05-10T15:59:33,2026-05-13T13:59:33,
+L00284,2026-02-17T05:00:00,Inbound demo,Enterprise,Benchmark Report,Amira Chen,Acme Account 0284,Qualified,2026-02-17T05:43:34,2026-02-18T15:43:34,
+L00285,2026-05-21T03:00:00,Outbound,SMB,Industry Roundtable,Leah Patel,Acme Account 0285,Contacted,2026-05-24T05:27:51,,
+L00286,2026-08-31T18:00:00,Organic search,Mid-market,Always-on,Priya Shah,Acme Account 0286,Disqualified,2026-09-01T04:48:59,2026-09-06T01:48:59,
+L00287,2026-02-24T10:00:00,Paid search,Mid-market,Product Webinar,Ethan Wright,Acme Account 0287,Contacted,2026-02-24T11:28:55,,
+L00288,2026-09-05T16:00:00,Paid search,Mid-market,Product Webinar,Ethan Wright,Acme Account 0288,Converted,2026-09-07T19:28:58,2026-09-09T19:28:58,2026-09-18T01:28:58
+L00289,2026-06-04T18:00:00,Outbound,SMB,Always-on,Jonah Kim,Acme Account 0289,Converted,2026-06-07T11:12:36,2026-06-10T11:12:36,2026-06-11T11:12:36
+L00290,2026-03-16T06:00:00,Organic search,SMB,Product Webinar,Leah Patel,Acme Account 0290,Converted,2026-03-19T07:02:20,2026-03-24T12:02:20,2026-03-27T04:02:20
+L00291,2026-06-28T00:00:00,Outbound,Mid-market,Product Webinar,Noah Brooks,Acme Account 0291,Contacted,2026-06-29T08:09:18,,
+L00292,2026-06-23T18:00:00,Paid search,Enterprise,Q1 Launch,Leah Patel,Acme Account 0292,Qualified,2026-06-24T01:31:41,2026-06-25T18:31:41,
+L00293,2026-03-05T04:00:00,Outbound,Enterprise,Always-on,Sofia Rivera,Acme Account 0293,Disqualified,2026-03-05T05:35:17,2026-03-08T10:35:17,
+L00294,2026-07-11T06:00:00,Partner referral,Mid-market,Product Webinar,Priya Shah,Acme Account 0294,Disqualified,2026-07-11T08:57:32,2026-07-16T14:57:32,
+L00295,2026-05-09T09:00:00,Partner referral,SMB,Benchmark Report,Noah Brooks,Acme Account 0295,New,,,
+L00296,2026-09-12T13:00:00,Webinar,SMB,Always-on,Mateo Garcia,Acme Account 0296,Disqualified,2026-09-13T22:03:10,2026-09-18T19:03:10,
+L00297,2026-07-06T01:00:00,Inbound demo,SMB,Always-on,Amira Chen,Acme Account 0297,New,,,
+L00298,2026-09-30T23:00:00,Webinar,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0298,Converted,2026-10-01T00:10:02,2026-10-04T05:10:02,2026-10-09T01:10:02
+L00299,2026-09-29T00:00:00,Inbound demo,SMB,Always-on,Jonah Kim,Acme Account 0299,Disqualified,2026-09-30T21:02:27,2026-10-04T14:02:27,
+L00300,2026-07-25T07:00:00,Outbound,Mid-market,Product Webinar,Sofia Rivera,Acme Account 0300,Contacted,2026-07-26T08:28:41,,
+L00301,2026-06-06T05:00:00,Organic search,SMB,Benchmark Report,Jonah Kim,Acme Account 0301,Contacted,2026-06-08T01:38:36,,
+L00302,2026-06-27T15:00:00,Inbound demo,Mid-market,Benchmark Report,Priya Shah,Acme Account 0302,Contacted,2026-06-28T07:23:32,,
+L00303,2026-09-08T13:00:00,Paid search,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0303,Converted,2026-09-08T16:32:27,2026-09-13T14:32:27,2026-09-18T16:32:27
+L00304,2026-02-19T13:00:00,Outbound,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0304,Contacted,2026-02-19T18:10:34,,
+L00305,2026-09-12T04:00:00,Outbound,SMB,Fall Outreach,Amira Chen,Acme Account 0305,Disqualified,2026-09-12T04:22:52,2026-09-15T18:22:52,
+L00306,2026-06-22T07:00:00,Organic search,Mid-market,Benchmark Report,Jonah Kim,Acme Account 0306,Disqualified,2026-06-22T10:06:09,2026-06-25T08:06:09,
+L00307,2026-06-29T00:00:00,Inbound demo,Enterprise,Industry Roundtable,Ethan Wright,Acme Account 0307,Qualified,2026-07-01T10:06:37,2026-07-05T13:06:37,
+L00308,2026-03-13T22:00:00,Paid search,Mid-market,Product Webinar,Leah Patel,Acme Account 0308,Disqualified,2026-03-17T05:51:53,2026-03-18T16:51:53,
+L00309,2026-08-17T02:00:00,Webinar,Enterprise,Q1 Launch,Priya Shah,Acme Account 0309,Converted,2026-08-20T16:08:59,2026-08-22T04:08:59,2026-08-29T02:08:59
+L00310,2026-08-20T10:00:00,Partner referral,Enterprise,Always-on,Amira Chen,Acme Account 0310,Converted,2026-08-20T12:46:33,2026-08-24T12:46:33,2026-08-31T03:46:33
+L00311,2026-08-27T01:00:00,Paid search,Mid-market,Product Webinar,Leah Patel,Acme Account 0311,Converted,2026-08-27T09:58:13,2026-09-01T05:58:13,2026-09-09T21:58:13
+L00312,2026-09-10T17:00:00,Paid search,SMB,Fall Outreach,Amira Chen,Acme Account 0312,New,,,
+L00313,2026-07-22T16:00:00,Inbound demo,SMB,Q1 Launch,Amira Chen,Acme Account 0313,Converted,2026-07-22T19:41:20,2026-07-24T01:41:20,2026-07-27T23:41:20
+L00314,2026-05-23T16:00:00,Outbound,SMB,Industry Roundtable,Priya Shah,Acme Account 0314,Contacted,2026-05-23T19:48:18,,
+L00315,2026-10-22T07:00:00,Partner referral,Mid-market,Industry Roundtable,Mateo Garcia,Acme Account 0315,Disqualified,2026-10-22T21:43:38,2026-10-26T16:43:38,
+L00316,2026-10-26T04:00:00,Outbound,Mid-market,Always-on,Priya Shah,Acme Account 0316,New,,,
+L00317,2026-04-17T09:00:00,Paid search,SMB,Always-on,Leah Patel,Acme Account 0317,Qualified,2026-04-17T11:06:26,2026-04-20T22:06:26,
+L00318,2026-09-12T11:00:00,Organic search,Enterprise,Benchmark Report,Mateo Garcia,Acme Account 0318,Contacted,2026-09-13T07:13:52,,
+L00319,2026-10-30T05:00:00,Partner referral,SMB,Benchmark Report,Noah Brooks,Acme Account 0319,Contacted,2026-10-30T07:45:37,,
+L00320,2026-03-20T11:00:00,Partner referral,Mid-market,Fall Outreach,Sofia Rivera,Acme Account 0320,New,,,
+L00321,2026-09-05T10:00:00,Partner referral,SMB,Industry Roundtable,Jonah Kim,Acme Account 0321,Contacted,2026-09-06T06:04:39,,
+L00322,2026-03-05T14:00:00,Outbound,Enterprise,Industry Roundtable,Jonah Kim,Acme Account 0322,New,,,
+L00323,2026-09-13T17:00:00,Paid search,SMB,Always-on,Amira Chen,Acme Account 0323,Qualified,2026-09-13T17:57:58,2026-09-18T15:57:58,
+L00324,2026-05-30T16:00:00,Inbound demo,Mid-market,Industry Roundtable,Priya Shah,Acme Account 0324,New,,,
+L00325,2026-06-28T13:00:00,Webinar,Mid-market,Benchmark Report,Leah Patel,Acme Account 0325,Disqualified,2026-06-28T14:51:21,2026-06-29T07:51:21,
+L00326,2026-04-03T16:00:00,Inbound demo,SMB,Benchmark Report,Jonah Kim,Acme Account 0326,New,,,
+L00327,2026-09-28T02:00:00,Outbound,SMB,Fall Outreach,Leah Patel,Acme Account 0327,Contacted,2026-09-28T10:47:05,,
+L00328,2026-02-25T18:00:00,Webinar,Mid-market,Always-on,Ethan Wright,Acme Account 0328,Converted,2026-02-25T18:44:01,2026-02-27T20:44:01,2026-03-03T19:44:01
+L00329,2026-09-05T06:00:00,Partner referral,SMB,Always-on,Amira Chen,Acme Account 0329,Converted,2026-09-05T09:57:41,2026-09-10T15:57:41,2026-09-19T16:57:41
+L00330,2026-03-08T06:00:00,Partner referral,SMB,Q1 Launch,Sofia Rivera,Acme Account 0330,Converted,2026-03-08T09:26:32,2026-03-10T12:26:32,2026-03-14T15:26:32
+L00331,2026-03-12T15:00:00,Inbound demo,Enterprise,Q1 Launch,Jonah Kim,Acme Account 0331,Converted,2026-03-13T01:37:00,2026-03-15T06:37:00,2026-03-21T23:37:00
+L00332,2026-07-21T16:00:00,Paid search,Mid-market,Fall Outreach,Ethan Wright,Acme Account 0332,Qualified,2026-07-22T04:25:23,2026-07-26T13:25:23,
+L00333,2026-06-09T14:00:00,Outbound,SMB,Q1 Launch,Priya Shah,Acme Account 0333,Disqualified,2026-06-09T14:54:57,2026-06-13T09:54:57,
+L00334,2026-05-18T06:00:00,Paid search,SMB,Always-on,Sofia Rivera,Acme Account 0334,Qualified,2026-05-18T16:42:17,2026-05-22T18:42:17,
+L00335,2026-10-17T15:00:00,Webinar,SMB,Always-on,Noah Brooks,Acme Account 0335,Qualified,2026-10-17T21:45:19,2026-10-20T23:45:19,
+L00336,2026-04-07T23:00:00,Outbound,SMB,Industry Roundtable,Sofia Rivera,Acme Account 0336,Qualified,2026-04-08T00:49:07,2026-04-13T10:49:07,
+L00337,2026-06-12T11:00:00,Partner referral,SMB,Benchmark Report,Mateo Garcia,Acme Account 0337,Contacted,2026-06-13T03:42:46,,
+L00338,2026-05-03T11:00:00,Webinar,Enterprise,Benchmark Report,Amira Chen,Acme Account 0338,Qualified,2026-05-03T11:24:11,2026-05-05T16:24:11,
+L00339,2026-08-09T12:00:00,Paid search,Mid-market,Always-on,Ethan Wright,Acme Account 0339,Converted,2026-08-09T12:23:51,2026-08-13T20:23:51,2026-08-18T21:23:51
+L00340,2026-03-07T07:00:00,Inbound demo,SMB,Fall Outreach,Noah Brooks,Acme Account 0340,Converted,2026-03-07T10:56:06,2026-03-08T07:56:06,2026-03-16T18:56:06
+L00341,2026-05-23T08:00:00,Webinar,Mid-market,Benchmark Report,Noah Brooks,Acme Account 0341,Contacted,2026-05-25T18:28:55,,
+L00342,2026-07-23T15:00:00,Outbound,Mid-market,Q1 Launch,Priya Shah,Acme Account 0342,Disqualified,2026-07-23T20:12:00,2026-07-29T04:12:00,
+L00343,2026-09-01T08:00:00,Partner referral,SMB,Product Webinar,Leah Patel,Acme Account 0343,Qualified,2026-09-03T10:10:07,2026-09-07T00:10:07,
+L00344,2026-06-20T02:00:00,Organic search,SMB,Benchmark Report,Sofia Rivera,Acme Account 0344,New,,,
+L00345,2026-07-12T00:00:00,Inbound demo,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0345,Qualified,2026-07-12T03:27:59,2026-07-16T04:27:59,
+L00346,2026-10-30T12:00:00,Partner referral,SMB,Fall Outreach,Amira Chen,Acme Account 0346,New,,,
+L00347,2026-02-21T03:00:00,Partner referral,Enterprise,Benchmark Report,Mateo Garcia,Acme Account 0347,Converted,2026-02-25T00:09:06,2026-02-28T04:09:06,2026-03-09T06:09:06
+L00348,2026-02-21T15:00:00,Paid search,SMB,Product Webinar,Noah Brooks,Acme Account 0348,Qualified,2026-02-25T09:39:03,2026-02-27T07:39:03,
+L00349,2026-09-09T12:00:00,Paid search,SMB,Q1 Launch,Mateo Garcia,Acme Account 0349,Contacted,2026-09-09T21:33:48,,
+L00350,2026-07-01T23:00:00,Paid search,Mid-market,Product Webinar,Jonah Kim,Acme Account 0350,Qualified,2026-07-02T02:18:14,2026-07-04T00:18:14,
+L00351,2026-03-18T15:00:00,Partner referral,SMB,Q1 Launch,Ethan Wright,Acme Account 0351,New,,,
+L00352,2026-06-30T09:00:00,Paid search,Mid-market,Product Webinar,Priya Shah,Acme Account 0352,Converted,2026-06-30T13:40:25,2026-07-04T05:40:25,2026-07-13T06:40:25
+L00353,2026-04-11T17:00:00,Organic search,Enterprise,Always-on,Noah Brooks,Acme Account 0353,Converted,2026-04-12T09:14:37,2026-04-16T08:14:37,2026-04-17T19:14:37
+L00354,2026-09-27T23:00:00,Paid search,Mid-market,Q1 Launch,Leah Patel,Acme Account 0354,Disqualified,2026-09-28T01:57:30,2026-10-01T05:57:30,
+L00355,2026-05-03T10:00:00,Organic search,SMB,Always-on,Priya Shah,Acme Account 0355,Converted,2026-05-05T12:06:35,2026-05-06T05:06:35,2026-05-14T17:06:35
+L00356,2026-09-11T23:00:00,Partner referral,SMB,Q1 Launch,Priya Shah,Acme Account 0356,Disqualified,2026-09-12T10:58:55,2026-09-14T06:58:55,
+L00357,2026-08-11T22:00:00,Partner referral,Mid-market,Q1 Launch,Jonah Kim,Acme Account 0357,New,,,
+L00358,2026-03-14T23:00:00,Webinar,Mid-market,Always-on,Amira Chen,Acme Account 0358,Disqualified,2026-03-16T21:11:50,2026-03-19T04:11:50,
+L00359,2026-06-19T22:00:00,Outbound,SMB,Industry Roundtable,Ethan Wright,Acme Account 0359,Qualified,2026-06-23T22:40:20,2026-06-25T13:40:20,
+L00360,2026-03-09T01:00:00,Inbound demo,SMB,Product Webinar,Noah Brooks,Acme Account 0360,Converted,2026-03-09T02:52:52,2026-03-11T04:52:52,2026-03-19T08:52:52
+L00361,2026-08-28T15:00:00,Webinar,Mid-market,Always-on,Mateo Garcia,Acme Account 0361,Contacted,2026-08-29T16:02:36,,
+L00362,2026-10-07T03:00:00,Organic search,Enterprise,Industry Roundtable,Ethan Wright,Acme Account 0362,Converted,2026-10-07T11:36:40,2026-10-12T21:36:40,2026-10-17T14:36:40
+L00363,2026-02-27T05:00:00,Partner referral,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0363,Disqualified,2026-02-27T08:50:56,2026-02-28T17:50:56,
+L00364,2026-05-12T02:00:00,Outbound,SMB,Fall Outreach,Noah Brooks,Acme Account 0364,Qualified,2026-05-12T03:57:53,2026-05-14T19:57:53,
+L00365,2026-09-06T13:00:00,Organic search,Mid-market,Product Webinar,Ethan Wright,Acme Account 0365,Disqualified,2026-09-06T14:06:32,2026-09-11T15:06:32,
+L00366,2026-03-11T17:00:00,Outbound,Mid-market,Industry Roundtable,Jonah Kim,Acme Account 0366,Qualified,2026-03-11T18:46:00,2026-03-12T23:46:00,
+L00367,2026-03-05T22:00:00,Paid search,Enterprise,Product Webinar,Mateo Garcia,Acme Account 0367,Disqualified,2026-03-05T22:40:23,2026-03-07T10:40:23,
+L00368,2026-08-31T23:00:00,Partner referral,SMB,Fall Outreach,Ethan Wright,Acme Account 0368,Contacted,2026-09-01T01:16:33,,
+L00369,2026-02-24T17:00:00,Webinar,Enterprise,Industry Roundtable,Jonah Kim,Acme Account 0369,Converted,2026-02-24T20:14:01,2026-02-27T20:14:01,2026-03-05T10:14:01
+L00370,2026-04-04T06:00:00,Paid search,Mid-market,Q1 Launch,Amira Chen,Acme Account 0370,Disqualified,2026-04-05T01:17:48,2026-04-10T05:17:48,
+L00371,2026-04-20T23:00:00,Inbound demo,SMB,Q1 Launch,Leah Patel,Acme Account 0371,Qualified,2026-04-21T00:44:00,2026-04-24T04:44:00,
+L00372,2026-05-14T23:00:00,Webinar,SMB,Product Webinar,Leah Patel,Acme Account 0372,New,,,
+L00373,2026-10-02T10:00:00,Organic search,SMB,Benchmark Report,Sofia Rivera,Acme Account 0373,Disqualified,2026-10-03T21:24:42,2026-10-05T17:24:42,
+L00374,2026-07-28T05:00:00,Paid search,Mid-market,Benchmark Report,Noah Brooks,Acme Account 0374,New,,,
+L00375,2026-04-27T17:00:00,Webinar,Mid-market,Benchmark Report,Ethan Wright,Acme Account 0375,New,,,
+L00376,2026-08-09T12:00:00,Outbound,SMB,Always-on,Noah Brooks,Acme Account 0376,Disqualified,2026-08-11T20:25:48,2026-08-12T20:25:48,
+L00377,2026-07-11T08:00:00,Webinar,SMB,Fall Outreach,Priya Shah,Acme Account 0377,Qualified,2026-07-11T16:43:08,2026-07-13T14:43:08,
+L00378,2026-02-28T14:00:00,Outbound,SMB,Product Webinar,Jonah Kim,Acme Account 0378,New,,,
+L00379,2026-05-29T17:00:00,Inbound demo,SMB,Industry Roundtable,Ethan Wright,Acme Account 0379,Converted,2026-05-30T18:21:14,2026-06-02T09:21:14,2026-06-03T08:21:14
+L00380,2026-04-08T11:00:00,Inbound demo,SMB,Industry Roundtable,Leah Patel,Acme Account 0380,Disqualified,2026-04-08T14:35:30,2026-04-10T18:35:30,
+L00381,2026-04-05T05:00:00,Partner referral,Enterprise,Always-on,Mateo Garcia,Acme Account 0381,Converted,2026-04-05T07:57:22,2026-04-10T08:57:22,2026-04-16T21:57:22
+L00382,2026-03-27T06:00:00,Organic search,SMB,Fall Outreach,Sofia Rivera,Acme Account 0382,Converted,2026-03-27T07:13:53,2026-03-27T20:13:53,2026-04-04T13:13:53
+L00383,2026-04-03T04:00:00,Partner referral,Mid-market,Industry Roundtable,Noah Brooks,Acme Account 0383,Disqualified,2026-04-03T04:38:04,2026-04-03T23:38:04,
+L00384,2026-10-30T04:00:00,Paid search,SMB,Fall Outreach,Noah Brooks,Acme Account 0384,Contacted,2026-10-30T04:58:50,,
+L00385,2026-05-13T23:00:00,Organic search,SMB,Fall Outreach,Noah Brooks,Acme Account 0385,Converted,2026-05-14T00:09:24,2026-05-17T07:09:24,2026-05-19T18:09:24
+L00386,2026-04-15T03:00:00,Outbound,Enterprise,Industry Roundtable,Sofia Rivera,Acme Account 0386,Contacted,2026-04-15T06:18:59,,
+L00387,2026-10-12T22:00:00,Organic search,Enterprise,Always-on,Leah Patel,Acme Account 0387,Qualified,2026-10-14T03:25:34,2026-10-16T01:25:34,
+L00388,2026-08-28T22:00:00,Webinar,SMB,Industry Roundtable,Noah Brooks,Acme Account 0388,Contacted,2026-08-31T02:00:01,,
+L00389,2026-06-21T10:00:00,Outbound,SMB,Industry Roundtable,Priya Shah,Acme Account 0389,Converted,2026-06-21T12:33:05,2026-06-24T04:33:05,2026-06-28T04:33:05
+L00390,2026-06-05T16:00:00,Inbound demo,SMB,Fall Outreach,Amira Chen,Acme Account 0390,Contacted,2026-06-05T18:22:27,,
+L00391,2026-02-20T11:00:00,Inbound demo,SMB,Always-on,Leah Patel,Acme Account 0391,Converted,2026-02-21T04:13:46,2026-02-23T19:13:46,2026-03-02T22:13:46
+L00392,2026-04-28T04:00:00,Paid search,Mid-market,Q1 Launch,Sofia Rivera,Acme Account 0392,Contacted,2026-04-28T04:33:18,,
+L00393,2026-08-03T08:00:00,Outbound,Mid-market,Benchmark Report,Amira Chen,Acme Account 0393,Qualified,2026-08-04T06:32:12,2026-08-08T07:32:12,
+L00394,2026-08-27T07:00:00,Organic search,Mid-market,Always-on,Ethan Wright,Acme Account 0394,Contacted,2026-08-29T20:03:47,,
+L00395,2026-08-01T11:00:00,Organic search,Mid-market,Always-on,Priya Shah,Acme Account 0395,Qualified,2026-08-03T09:04:20,2026-08-07T07:04:20,
+L00396,2026-08-21T08:00:00,Outbound,SMB,Benchmark Report,Ethan Wright,Acme Account 0396,New,,,
+L00397,2026-07-21T11:00:00,Organic search,Enterprise,Always-on,Sofia Rivera,Acme Account 0397,New,,,
+L00398,2026-05-18T05:00:00,Inbound demo,Enterprise,Always-on,Noah Brooks,Acme Account 0398,New,,,
+L00399,2026-03-13T23:00:00,Inbound demo,Enterprise,Industry Roundtable,Sofia Rivera,Acme Account 0399,Qualified,2026-03-14T01:49:04,2026-03-17T16:49:04,
+L00400,2026-04-15T06:00:00,Outbound,SMB,Q1 Launch,Noah Brooks,Acme Account 0400,Disqualified,2026-04-15T11:12:59,2026-04-17T02:12:59,
+L00401,2026-08-29T01:00:00,Inbound demo,Enterprise,Fall Outreach,Ethan Wright,Acme Account 0401,Disqualified,2026-08-29T23:44:05,2026-09-02T16:44:05,
+L00402,2026-04-17T01:00:00,Webinar,Mid-market,Q1 Launch,Leah Patel,Acme Account 0402,Qualified,2026-04-20T02:48:26,2026-04-24T12:48:26,
+L00403,2026-09-16T08:00:00,Webinar,Mid-market,Product Webinar,Jonah Kim,Acme Account 0403,Qualified,2026-09-16T13:59:14,2026-09-17T20:59:14,
+L00404,2026-07-19T04:00:00,Outbound,Mid-market,Q1 Launch,Jonah Kim,Acme Account 0404,Contacted,2026-07-19T05:40:22,,
+L00405,2026-07-29T14:00:00,Webinar,Enterprise,Q1 Launch,Noah Brooks,Acme Account 0405,Disqualified,2026-07-30T00:52:44,2026-08-02T12:52:44,
+L00406,2026-08-20T14:00:00,Partner referral,SMB,Always-on,Mateo Garcia,Acme Account 0406,Contacted,2026-08-22T07:23:31,,
+L00407,2026-09-11T14:00:00,Organic search,SMB,Product Webinar,Mateo Garcia,Acme Account 0407,Disqualified,2026-09-14T00:57:12,2026-09-18T20:57:12,
+L00408,2026-04-06T00:00:00,Inbound demo,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0408,Contacted,2026-04-06T10:36:40,,
+L00409,2026-07-27T16:00:00,Outbound,Mid-market,Product Webinar,Noah Brooks,Acme Account 0409,Converted,2026-07-27T19:21:35,2026-08-02T00:21:35,2026-08-03T03:21:35
+L00410,2026-09-27T03:00:00,Outbound,Enterprise,Q1 Launch,Jonah Kim,Acme Account 0410,Converted,2026-09-27T12:59:58,2026-10-02T20:59:58,2026-10-07T17:59:58
+L00411,2026-05-13T11:00:00,Inbound demo,Mid-market,Q1 Launch,Jonah Kim,Acme Account 0411,Converted,2026-05-14T02:34:27,2026-05-18T19:34:27,2026-05-21T23:34:27
+L00412,2026-10-27T07:00:00,Inbound demo,SMB,Q1 Launch,Priya Shah,Acme Account 0412,Contacted,2026-10-27T08:24:56,,
+L00413,2026-03-28T13:00:00,Outbound,Enterprise,Fall Outreach,Leah Patel,Acme Account 0413,Qualified,2026-03-29T08:28:32,2026-04-03T10:28:32,
+L00414,2026-05-22T16:00:00,Outbound,SMB,Product Webinar,Leah Patel,Acme Account 0414,New,,,
+L00415,2026-04-29T08:00:00,Inbound demo,Enterprise,Product Webinar,Amira Chen,Acme Account 0415,Disqualified,2026-04-29T08:26:37,2026-05-04T00:26:37,
+L00416,2026-04-09T07:00:00,Webinar,Mid-market,Fall Outreach,Ethan Wright,Acme Account 0416,Converted,2026-04-10T04:24:54,2026-04-12T18:24:54,2026-04-15T18:24:54
+L00417,2026-08-29T23:00:00,Organic search,SMB,Product Webinar,Priya Shah,Acme Account 0417,Converted,2026-08-30T07:56:56,2026-09-01T11:56:56,2026-09-06T04:56:56
+L00418,2026-06-02T15:00:00,Organic search,Mid-market,Q1 Launch,Amira Chen,Acme Account 0418,Qualified,2026-06-02T17:58:06,2026-06-06T06:58:06,
+L00419,2026-06-16T18:00:00,Inbound demo,Enterprise,Industry Roundtable,Priya Shah,Acme Account 0419,Converted,2026-06-17T05:50:28,2026-06-20T23:50:28,2026-06-30T01:50:28
+L00420,2026-06-13T00:00:00,Paid search,Enterprise,Fall Outreach,Jonah Kim,Acme Account 0420,Contacted,2026-06-13T13:19:41,,
+L00421,2026-06-12T17:00:00,Outbound,Enterprise,Always-on,Priya Shah,Acme Account 0421,Converted,2026-06-12T18:49:51,2026-06-15T19:49:51,2026-06-18T01:49:51
+L00422,2026-09-07T04:00:00,Organic search,Mid-market,Industry Roundtable,Sofia Rivera,Acme Account 0422,Converted,2026-09-07T21:38:57,2026-09-11T15:38:57,2026-09-18T20:38:57
+L00423,2026-10-11T15:00:00,Inbound demo,Mid-market,Always-on,Amira Chen,Acme Account 0423,Converted,2026-10-12T04:02:35,2026-10-14T20:02:35,2026-10-22T23:02:35
+L00424,2026-06-14T11:00:00,Inbound demo,Mid-market,Q1 Launch,Leah Patel,Acme Account 0424,Contacted,2026-06-15T12:13:04,,
+L00425,2026-03-22T14:00:00,Inbound demo,Enterprise,Industry Roundtable,Sofia Rivera,Acme Account 0425,Contacted,2026-03-22T14:45:13,,
+L00426,2026-10-09T09:00:00,Inbound demo,SMB,Industry Roundtable,Ethan Wright,Acme Account 0426,Contacted,2026-10-09T10:52:53,,
+L00427,2026-06-07T01:00:00,Partner referral,SMB,Fall Outreach,Noah Brooks,Acme Account 0427,Contacted,2026-06-07T02:02:56,,
+L00428,2026-05-11T15:00:00,Outbound,SMB,Always-on,Jonah Kim,Acme Account 0428,Contacted,2026-05-11T16:48:56,,
+L00429,2026-07-26T00:00:00,Paid search,Mid-market,Benchmark Report,Priya Shah,Acme Account 0429,New,,,
+L00430,2026-10-02T17:00:00,Inbound demo,Enterprise,Q1 Launch,Noah Brooks,Acme Account 0430,New,,,
+L00431,2026-07-31T18:00:00,Webinar,Mid-market,Benchmark Report,Mateo Garcia,Acme Account 0431,Contacted,2026-07-31T18:55:29,,
+L00432,2026-10-09T05:00:00,Outbound,SMB,Benchmark Report,Sofia Rivera,Acme Account 0432,Qualified,2026-10-09T08:11:48,2026-10-10T12:11:48,
+L00433,2026-09-18T11:00:00,Inbound demo,SMB,Always-on,Sofia Rivera,Acme Account 0433,Contacted,2026-09-18T17:15:51,,
+L00434,2026-05-05T18:00:00,Inbound demo,SMB,Q1 Launch,Mateo Garcia,Acme Account 0434,Contacted,2026-05-05T18:40:26,,
+L00435,2026-07-26T01:00:00,Outbound,SMB,Industry Roundtable,Noah Brooks,Acme Account 0435,Qualified,2026-07-26T09:01:03,2026-07-31T18:01:03,
+L00436,2026-08-24T02:00:00,Partner referral,SMB,Always-on,Noah Brooks,Acme Account 0436,Qualified,2026-08-24T03:10:24,2026-08-24T13:10:24,
+L00437,2026-09-28T01:00:00,Paid search,SMB,Q1 Launch,Jonah Kim,Acme Account 0437,New,,,
+L00438,2026-08-09T18:00:00,Inbound demo,Mid-market,Benchmark Report,Mateo Garcia,Acme Account 0438,Contacted,2026-08-09T21:28:08,,
+L00439,2026-06-25T16:00:00,Outbound,SMB,Always-on,Sofia Rivera,Acme Account 0439,New,,,
+L00440,2026-06-08T10:00:00,Organic search,Mid-market,Always-on,Leah Patel,Acme Account 0440,Qualified,2026-06-08T21:47:55,2026-06-10T23:47:55,
+L00441,2026-10-16T03:00:00,Outbound,SMB,Always-on,Ethan Wright,Acme Account 0441,Qualified,2026-10-16T18:47:20,2026-10-19T11:47:20,
+L00442,2026-04-01T05:00:00,Outbound,SMB,Industry Roundtable,Mateo Garcia,Acme Account 0442,Converted,2026-04-04T12:50:25,2026-04-05T07:50:25,2026-04-13T01:50:25
+L00443,2026-03-03T12:00:00,Partner referral,Enterprise,Benchmark Report,Leah Patel,Acme Account 0443,Contacted,2026-03-05T00:39:38,,
+L00444,2026-08-01T09:00:00,Paid search,Enterprise,Q1 Launch,Priya Shah,Acme Account 0444,Qualified,2026-08-02T08:37:51,2026-08-04T11:37:51,
+L00445,2026-03-02T15:00:00,Paid search,Mid-market,Benchmark Report,Mateo Garcia,Acme Account 0445,Disqualified,2026-03-04T13:32:41,2026-03-05T13:32:41,
+L00446,2026-03-17T22:00:00,Webinar,SMB,Product Webinar,Sofia Rivera,Acme Account 0446,Qualified,2026-03-17T23:37:17,2026-03-21T15:37:17,
+L00447,2026-04-01T17:00:00,Organic search,Mid-market,Q1 Launch,Jonah Kim,Acme Account 0447,Converted,2026-04-01T19:18:25,2026-04-03T09:18:25,2026-04-08T02:18:25
+L00448,2026-02-15T00:00:00,Organic search,SMB,Fall Outreach,Amira Chen,Acme Account 0448,Qualified,2026-02-16T19:01:24,2026-02-19T21:01:24,
+L00449,2026-05-19T22:00:00,Paid search,Mid-market,Fall Outreach,Sofia Rivera,Acme Account 0449,Qualified,2026-05-20T08:44:10,2026-05-25T13:44:10,
+L00450,2026-03-29T18:00:00,Outbound,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0450,Disqualified,2026-03-30T19:03:48,2026-03-31T14:03:48,
+L00451,2026-08-01T09:00:00,Outbound,SMB,Fall Outreach,Leah Patel,Acme Account 0451,Contacted,2026-08-01T15:16:20,,
+L00452,2026-07-18T09:00:00,Webinar,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0452,Converted,2026-07-18T16:56:46,2026-07-23T15:56:46,2026-07-29T00:56:46
+L00453,2026-05-18T15:00:00,Organic search,Mid-market,Q1 Launch,Ethan Wright,Acme Account 0453,Converted,2026-05-18T18:18:25,2026-05-20T06:18:25,2026-05-28T06:18:25
+L00454,2026-04-05T00:00:00,Organic search,Mid-market,Benchmark Report,Amira Chen,Acme Account 0454,Contacted,2026-04-05T03:45:42,,
+L00455,2026-06-26T23:00:00,Webinar,SMB,Benchmark Report,Mateo Garcia,Acme Account 0455,Contacted,2026-06-27T01:00:05,,
+L00456,2026-05-07T01:00:00,Organic search,Enterprise,Industry Roundtable,Amira Chen,Acme Account 0456,Qualified,2026-05-07T02:35:45,2026-05-10T02:35:45,
+L00457,2026-04-08T07:00:00,Organic search,Mid-market,Always-on,Jonah Kim,Acme Account 0457,Converted,2026-04-08T09:18:49,2026-04-10T00:18:49,2026-04-14T06:18:49
+L00458,2026-09-10T15:00:00,Outbound,Mid-market,Industry Roundtable,Amira Chen,Acme Account 0458,Contacted,2026-09-11T02:36:25,,
+L00459,2026-08-02T05:00:00,Outbound,SMB,Benchmark Report,Jonah Kim,Acme Account 0459,Disqualified,2026-08-02T06:32:47,2026-08-03T10:32:47,
+L00460,2026-03-07T22:00:00,Outbound,Mid-market,Benchmark Report,Jonah Kim,Acme Account 0460,Qualified,2026-03-08T00:21:21,2026-03-09T09:21:21,
+L00461,2026-08-16T02:00:00,Inbound demo,SMB,Product Webinar,Mateo Garcia,Acme Account 0461,Disqualified,2026-08-17T01:28:13,2026-08-21T15:28:13,
+L00462,2026-05-23T09:00:00,Outbound,SMB,Industry Roundtable,Amira Chen,Acme Account 0462,Converted,2026-05-24T07:13:34,2026-05-24T19:13:34,2026-05-27T05:13:34
+L00463,2026-05-25T18:00:00,Paid search,SMB,Always-on,Jonah Kim,Acme Account 0463,Contacted,2026-05-26T19:16:32,,
+L00464,2026-05-31T18:00:00,Inbound demo,Enterprise,Q1 Launch,Mateo Garcia,Acme Account 0464,New,,,
+L00465,2026-10-02T23:00:00,Outbound,Mid-market,Always-on,Noah Brooks,Acme Account 0465,Contacted,2026-10-02T23:55:45,,
+L00466,2026-08-08T04:00:00,Paid search,Mid-market,Benchmark Report,Sofia Rivera,Acme Account 0466,New,,,
+L00467,2026-06-07T01:00:00,Partner referral,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0467,Qualified,2026-06-08T00:13:43,2026-06-12T05:13:43,
+L00468,2026-07-15T06:00:00,Organic search,SMB,Benchmark Report,Leah Patel,Acme Account 0468,Qualified,2026-07-15T23:03:59,2026-07-18T23:03:59,
+L00469,2026-05-25T02:00:00,Outbound,SMB,Fall Outreach,Noah Brooks,Acme Account 0469,Converted,2026-05-25T03:05:47,2026-05-29T07:05:47,2026-06-06T08:05:47
+L00470,2026-04-16T05:00:00,Organic search,SMB,Benchmark Report,Sofia Rivera,Acme Account 0470,Converted,2026-04-19T00:14:11,2026-04-23T19:14:11,2026-04-28T07:14:11
+L00471,2026-09-29T06:00:00,Inbound demo,Enterprise,Product Webinar,Amira Chen,Acme Account 0471,New,,,
+L00472,2026-06-12T07:00:00,Inbound demo,Mid-market,Benchmark Report,Ethan Wright,Acme Account 0472,Converted,2026-06-12T07:33:45,2026-06-13T19:33:45,2026-06-16T08:33:45
+L00473,2026-08-12T16:00:00,Inbound demo,SMB,Industry Roundtable,Jonah Kim,Acme Account 0473,Qualified,2026-08-13T12:30:13,2026-08-16T18:30:13,
+L00474,2026-03-21T22:00:00,Organic search,Mid-market,Always-on,Sofia Rivera,Acme Account 0474,New,,,
+L00475,2026-05-02T14:00:00,Inbound demo,Mid-market,Industry Roundtable,Ethan Wright,Acme Account 0475,Converted,2026-05-02T17:47:21,2026-05-06T13:47:21,2026-05-13T21:47:21
+L00476,2026-02-18T08:00:00,Organic search,Mid-market,Industry Roundtable,Jonah Kim,Acme Account 0476,Contacted,2026-02-18T09:20:09,,
+L00477,2026-08-14T11:00:00,Outbound,Mid-market,Product Webinar,Ethan Wright,Acme Account 0477,Qualified,2026-08-14T13:28:52,2026-08-16T03:28:52,
+L00478,2026-07-27T18:00:00,Paid search,Mid-market,Always-on,Sofia Rivera,Acme Account 0478,Converted,2026-07-29T16:43:41,2026-07-31T19:43:41,2026-08-09T08:43:41
+L00479,2026-07-16T16:00:00,Inbound demo,SMB,Benchmark Report,Amira Chen,Acme Account 0479,Converted,2026-07-17T17:28:17,2026-07-21T19:28:17,2026-07-30T00:28:17
+L00480,2026-08-25T22:00:00,Outbound,Mid-market,Product Webinar,Leah Patel,Acme Account 0480,Disqualified,2026-08-26T03:44:11,2026-08-26T20:44:11,
+L00481,2026-09-30T13:00:00,Inbound demo,Mid-market,Fall Outreach,Jonah Kim,Acme Account 0481,Contacted,2026-10-03T08:56:36,,
+L00482,2026-08-20T23:00:00,Outbound,SMB,Fall Outreach,Mateo Garcia,Acme Account 0482,Qualified,2026-08-21T00:37:27,2026-08-22T11:37:27,
+L00483,2026-08-04T23:00:00,Paid search,SMB,Industry Roundtable,Leah Patel,Acme Account 0483,Converted,2026-08-05T01:07:20,2026-08-09T23:07:20,2026-08-12T14:07:20
+L00484,2026-05-06T22:00:00,Organic search,SMB,Product Webinar,Jonah Kim,Acme Account 0484,New,,,
+L00485,2026-10-28T07:00:00,Inbound demo,SMB,Always-on,Jonah Kim,Acme Account 0485,Contacted,2026-10-28T23:38:22,,
+L00486,2026-09-12T23:00:00,Organic search,Mid-market,Always-on,Noah Brooks,Acme Account 0486,Converted,2026-09-12T23:40:42,2026-09-14T14:40:42,2026-09-20T00:40:42
+L00487,2026-07-15T23:00:00,Webinar,Mid-market,Benchmark Report,Mateo Garcia,Acme Account 0487,Disqualified,2026-07-16T01:03:13,2026-07-17T02:03:13,
+L00488,2026-07-15T00:00:00,Paid search,SMB,Product Webinar,Priya Shah,Acme Account 0488,Disqualified,2026-07-15T19:31:07,2026-07-16T14:31:07,
+L00489,2026-07-06T10:00:00,Inbound demo,Mid-market,Q1 Launch,Amira Chen,Acme Account 0489,Converted,2026-07-09T09:25:31,2026-07-11T20:25:31,2026-07-13T06:25:31
+L00490,2026-07-19T14:00:00,Organic search,Mid-market,Q1 Launch,Priya Shah,Acme Account 0490,New,,,
+L00491,2026-03-02T03:00:00,Organic search,Mid-market,Always-on,Priya Shah,Acme Account 0491,New,,,
+L00492,2026-07-02T17:00:00,Outbound,Mid-market,Q1 Launch,Amira Chen,Acme Account 0492,Qualified,2026-07-06T15:29:23,2026-07-11T01:29:23,
+L00493,2026-05-03T06:00:00,Organic search,Mid-market,Fall Outreach,Noah Brooks,Acme Account 0493,Contacted,2026-05-04T04:45:40,,
+L00494,2026-05-30T04:00:00,Organic search,SMB,Product Webinar,Sofia Rivera,Acme Account 0494,Qualified,2026-05-30T04:56:32,2026-06-03T11:56:32,
+L00495,2026-03-10T09:00:00,Inbound demo,Mid-market,Fall Outreach,Leah Patel,Acme Account 0495,Disqualified,2026-03-10T11:51:06,2026-03-14T03:51:06,
+L00496,2026-07-02T14:00:00,Organic search,Mid-market,Industry Roundtable,Priya Shah,Acme Account 0496,Converted,2026-07-03T03:37:59,2026-07-04T14:37:59,2026-07-13T15:37:59
+L00497,2026-09-02T17:00:00,Inbound demo,SMB,Product Webinar,Sofia Rivera,Acme Account 0497,Contacted,2026-09-05T12:41:12,,
+L00498,2026-05-14T18:00:00,Webinar,Enterprise,Benchmark Report,Sofia Rivera,Acme Account 0498,Qualified,2026-05-15T14:08:10,2026-05-16T13:08:10,
+L00499,2026-05-31T18:00:00,Outbound,Mid-market,Fall Outreach,Leah Patel,Acme Account 0499,Disqualified,2026-06-01T05:09:52,2026-06-03T17:09:52,
+L00500,2026-07-27T15:00:00,Organic search,SMB,Industry Roundtable,Leah Patel,Acme Account 0500,Converted,2026-07-27T16:36:16,2026-07-31T05:36:16,2026-08-02T17:36:16
+L00501,2026-10-20T11:00:00,Inbound demo,Mid-market,Always-on,Jonah Kim,Acme Account 0501,Converted,2026-10-20T21:30:23,2026-10-21T10:30:23,2026-10-27T17:30:23
+L00502,2026-07-12T12:00:00,Partner referral,SMB,Industry Roundtable,Jonah Kim,Acme Account 0502,New,,,
+L00503,2026-02-17T02:00:00,Outbound,SMB,Fall Outreach,Noah Brooks,Acme Account 0503,Converted,2026-02-17T07:59:04,2026-02-17T16:59:04,2026-02-23T01:59:04
+L00504,2026-09-22T04:00:00,Paid search,Mid-market,Always-on,Mateo Garcia,Acme Account 0504,Disqualified,2026-09-24T21:35:21,2026-09-27T04:35:21,
+L00505,2026-05-06T03:00:00,Inbound demo,SMB,Industry Roundtable,Sofia Rivera,Acme Account 0505,Contacted,2026-05-06T18:00:38,,
+L00506,2026-10-27T15:00:00,Inbound demo,SMB,Q1 Launch,Sofia Rivera,Acme Account 0506,Converted,2026-10-27T17:37:39,2026-10-29T16:37:39,2026-10-30T10:37:39
+L00507,2026-05-19T09:00:00,Inbound demo,SMB,Product Webinar,Jonah Kim,Acme Account 0507,Converted,2026-05-19T12:46:27,2026-05-24T19:46:27,2026-05-26T23:46:27
+L00508,2026-05-02T17:00:00,Outbound,Enterprise,Always-on,Leah Patel,Acme Account 0508,New,,,
+L00509,2026-05-20T00:00:00,Organic search,SMB,Q1 Launch,Mateo Garcia,Acme Account 0509,Converted,2026-05-20T03:36:50,2026-05-21T17:36:50,2026-05-30T09:36:50
+L00510,2026-03-23T07:00:00,Inbound demo,SMB,Fall Outreach,Priya Shah,Acme Account 0510,Qualified,2026-03-23T10:58:50,2026-03-25T08:58:50,
+L00511,2026-05-18T00:00:00,Inbound demo,SMB,Fall Outreach,Noah Brooks,Acme Account 0511,Qualified,2026-05-18T08:48:23,2026-05-23T12:48:23,
+L00512,2026-04-14T22:00:00,Outbound,Mid-market,Always-on,Mateo Garcia,Acme Account 0512,Contacted,2026-04-15T13:46:57,,
+L00513,2026-05-25T15:00:00,Partner referral,Enterprise,Fall Outreach,Mateo Garcia,Acme Account 0513,Contacted,2026-05-26T07:51:30,,
+L00514,2026-05-06T09:00:00,Inbound demo,SMB,Q1 Launch,Mateo Garcia,Acme Account 0514,Qualified,2026-05-06T11:08:58,2026-05-11T05:08:58,
+L00515,2026-04-28T06:00:00,Outbound,Mid-market,Fall Outreach,Leah Patel,Acme Account 0515,Disqualified,2026-05-01T16:04:25,2026-05-03T09:04:25,
+L00516,2026-05-19T23:00:00,Outbound,Mid-market,Product Webinar,Leah Patel,Acme Account 0516,Qualified,2026-05-20T00:08:16,2026-05-21T14:08:16,
+L00517,2026-07-21T10:00:00,Partner referral,SMB,Q1 Launch,Noah Brooks,Acme Account 0517,New,,,
+L00518,2026-07-28T16:00:00,Organic search,SMB,Industry Roundtable,Priya Shah,Acme Account 0518,Converted,2026-07-28T18:21:33,2026-07-31T01:21:33,2026-08-05T22:21:33
+L00519,2026-08-15T07:00:00,Inbound demo,Mid-market,Product Webinar,Mateo Garcia,Acme Account 0519,New,,,
+L00520,2026-04-09T07:00:00,Organic search,Enterprise,Product Webinar,Leah Patel,Acme Account 0520,Qualified,2026-04-13T08:45:47,2026-04-16T21:45:47,
